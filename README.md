@@ -10,7 +10,14 @@ I'm a passionate software professional with over 15 years of experience leading 
   </a>
 </div>
 
-Check out my <a href="https://scottdmcc.github.io/">GitHub profile page</a> to see more of my work
+Check out my <a href="https://scottdmcc.github.io/">GitHub profile page</a> to see more of my work.
+
+## Projects
+
+- A Generative AI article writer
+  - Given a subject matter, will create a couple paragraphs of text and a DALL-E generated image, create a webpage for it, update the index.html that lists all the articles, and then use git to publish everything to the web.
+  - [The index page](https://scottdmcc.github.io/scottdmcc/)
+  - [The source code](https://github.com/scottdmcc/gen-ai-blog-post)
 
 ## Github Stats
 
