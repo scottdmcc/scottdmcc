@@ -10,7 +10,7 @@ I'm a passionate software professional with over 15 years of experience leading 
   </a>
 </div>
 
-Check out my <a href="https://scottdmcc.github.io/">GitHub profile page</a> to see more of my work.
+Check out my [GitHub profile page](https://github.com/scottdmcc) to see more of my work.
 
 ## Projects
 
@@ -18,6 +18,12 @@ Check out my <a href="https://scottdmcc.github.io/">GitHub profile page</a> to s
   - Given a subject matter, will create a couple paragraphs of text and a DALL-E generated image, create a webpage for it, update the index.html that lists all the articles, and then use git to publish everything to the web.
   - [The index page](https://scottdmcc.github.io/scottdmcc/)
   - [The source code](https://github.com/scottdmcc/gen-ai-blog-post)
+- Wurdel
+  - A configurable "Wordle" clone that runs in the shell. Includes a helper app to pull in words from a txt document (like a book) to become the new word list.
+  - [The source code](https://github.com/scottdmcc/wurdel)
+- Equation
+  - A Java app I created for a hiring exam years ago.
+  - [The source code](https://github.com/scottdmcc/equation)
 
 ## Github Stats
 
